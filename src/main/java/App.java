@@ -25,4 +25,8 @@ public class App {
 		System.out.println("new change 2");
 
 	}
+	
+	public static void anotherMethod() {
+		System.out.println("new method");
+	}
 }
