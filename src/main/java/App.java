@@ -16,9 +16,11 @@ public class App {
 	public static void changes(){
 		System.out.println("new change 2");
 	}
-	
+	public static void adingThisForNextCheck(){
+		System.out.println("Hello");
+	}
 	public static void addingThisMethodForNowTest(){
-		System.out.println("new change 2");
+		System.out.println("new change");
 
 	}
 }
