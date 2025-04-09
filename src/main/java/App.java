@@ -23,4 +23,8 @@ public class App {
 		System.out.println("new change");
 
 	}
+	
+	public static void gettingThisForTest() {
+		System.out.println("SDSD");
+	}
 }
