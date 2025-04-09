@@ -16,4 +16,9 @@ public class App {
 	public static void changes(){
 		System.out.println("new change 2");
 	}
+	
+	public static void addingThisMethodForNowTest(){
+		System.out.println("new change 2");
+
+	}
 }
