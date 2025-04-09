@@ -7,6 +7,6 @@ public class App {
 	}
 
 	public static void addingThisMethodForTest(){
-		System.out.println("new change");
+		System.out.println("new change 2");
 	}
 }
